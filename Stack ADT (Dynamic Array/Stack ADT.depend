@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1698414415 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt\main.cpp
+	<iostream>
+	"Stack.h"
+
+1698413921 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt\include\stack.h
+
+1698414271 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt\src\stack.cpp
+	"Stack.h"
+	<iostream>
+	<string>
+
+1698414452 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt\src\stack_impl.cpp
+	"Stack.cpp"
+	<iostream>
+	<string>
+
+1698415604 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt\src\stack.cpp
+	"Stack.h"
+	<iostream>
+	<string>
+
