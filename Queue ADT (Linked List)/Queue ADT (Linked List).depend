@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698502891 source:d:\dsa_github\submissioncode\stacks-and-queues\queue adt (linked list)\src\queue.cpp
+	<iostream>
+	"Queue.h"
+
+1698502872 d:\dsa_github\submissioncode\stacks-and-queues\queue adt (linked list)\include\queue.h
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698503583 source:d:\dsa_github\submissioncode\stacks-and-queues\queue adt (dynamic array)\main.cpp
+	<iostream>
+	"Queue.h"
+
+1698503620 d:\dsa_github\submissioncode\stacks-and-queues\queue adt (dynamic array)\include\queue.h
+
+1698503597 source:d:\dsa_github\submissioncode\stacks-and-queues\queue adt (dynamic array)\src\queue.cpp
+	<iostream>
+	"Queue.h"
+
