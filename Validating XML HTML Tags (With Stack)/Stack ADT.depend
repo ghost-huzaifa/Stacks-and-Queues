@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1698414415 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt\main.cpp
+	<iostream>
+	"Stack.h"
+
+1698413921 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt\include\stack.h
+
+1698414271 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt\src\stack.cpp
+	"Stack.h"
+	<iostream>
+	<string>
+
+1698414452 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt\src\stack_impl.cpp
+	"Stack.cpp"
+	<iostream>
+	<string>
+
+1698415604 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt\src\stack.cpp
+	"Stack.h"
+	<iostream>
+	<string>
+
+1698476376 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt (linked list)\main.cpp
+	<iostream>
+	"Stack.h"
+
+1698477788 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt (linked list)\include\stack.h
+	"List.h"
+
+1698477341 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt (linked list)\include\list.h
+
+1698414452 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt (linked list)\src\stack_impl.cpp
+	"Stack.cpp"
+	<iostream>
+	<string>
+
+1698478327 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt (linked list)\src\stack.cpp
+	"Stack.h"
+	"List.h"
+	<iostream>
+	<string>
+
+1698474979 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt (linked list)\src\list.cpp
+	<iostream>
+	"List.h"
+
+1698474968 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt (linked list)\src\list_impl.cpp
+	"List.cpp"
+	<string>
+
+1698474979 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt (linked list)\src\list.cpp
+	<iostream>
+	"List.h"
+
+1698478327 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\stack adt (linked list)\src\stack.cpp
+	"Stack.h"
+	"List.h"
+	<iostream>
+	<string>
+
+1698474979 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\validating xml html tags (with stack)\src\list.cpp
+	<iostream>
+	"List.h"
+
+1698477341 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\validating xml html tags (with stack)\include\list.h
+
+1698474968 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\validating xml html tags (with stack)\src\list_impl.cpp
+	"List.cpp"
+	<string>
+
+1698474979 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\validating xml html tags (with stack)\src\list.cpp
+	<iostream>
+	"List.h"
+
+1698478327 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\validating xml html tags (with stack)\src\stack.cpp
+	"Stack.h"
+	"List.h"
+	<iostream>
+	<string>
+
+1698477788 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\validating xml html tags (with stack)\include\stack.h
+	"List.h"
+
+1698414452 source:c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\validating xml html tags (with stack)\src\stack_impl.cpp
+	"Stack.cpp"
+	<iostream>
+	<string>
+
+1698478327 c:\users\huzai\onedrive - higher education commission\3rd semester\dsa lab\lab 03\stacks-and-queues\validating xml html tags (with stack)\src\stack.cpp
+	"Stack.h"
+	"List.h"
+	<iostream>
+	<string>
+
